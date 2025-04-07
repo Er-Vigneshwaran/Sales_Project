@@ -20,10 +20,11 @@ You can install the required libraries using pip:
 
 pip install pandas matplotlib seaborn pymysql sqlalchemy
 
-Installing
+## Installing
+
 Clone the repository:
 
-git clone https://github.com/yourusername/walmart-sales-analysis.git
+git clone https://github.com/Er-Vigneshwaran/Sales_Project/blob/main/README.md
 cd walmart-sales-analysis
 Update your MySQL connection string in the Python file (make sure to keep it secure and do not upload credentials to GitHub).
 
@@ -40,16 +41,19 @@ Data previews using df.head()
 
 Visualizations for trends and insights in the dataset
 
-Deployment
+## Deployment
 This project runs locally on your machine using Jupyter Notebook. You can launch the notebook with:
 
 jupyter notebook Final_Project.py
 
-Author
+## Author
+
 Vigneshwaran Gunasekaran  - Er-Vigneshwaran
 
-License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgement
+## Acknowledgement
+
 This project was developed as part of a data analysis course assignment.
